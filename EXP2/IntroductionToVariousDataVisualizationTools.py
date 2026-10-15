@@ -40,8 +40,4 @@ Pandas                  Loads, cleans, transforms and analyzes tabular data.
 
 
 //Result:
-<<<<<<< HEAD:EXP2/1. IntroductiontovariousDataVisualizationtools
 Thus, the versions of the commonly used Python data visualization libraries were displayed successfully.
-=======
-Thus, the versions of the commonly used Python data visualization libraries were displayed successfully.
->>>>>>> d801f78 (push):EXP2/Introduction to Various Data VisualizationTools.py
