@@ -1,4 +1,4 @@
-## Experiment No. 6
+## Experiment No. 7
 ## Data Aggregation and Statistical Functions in Tableau
 //Aim:
 To perform data aggregation and apply statistical functions in Tableau for effective data analysis.
