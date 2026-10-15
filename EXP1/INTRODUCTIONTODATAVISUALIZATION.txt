@@ -94,4 +94,4 @@ Dashboards help monitor systems, business activities, and other important inform
 //Result:
 The basic concepts of data visualization were studied successfully. Different types of charts, graphs, and visualization tools were understood. The importance of graphical representation in analyzing, interpreting, and communicating data was also studied.
                                                                                                         
-                                                                                                                                                  TAKE BY CHAT GPT
+                                                                                                                                                  TAKEN FROM CHAT GPT
